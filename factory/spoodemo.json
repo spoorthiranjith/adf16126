@@ -1,0 +1,9 @@
+{
+	"name": "spoodemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fe1cbdc4-9d56-403a-8a1d-212bc9398810",
+		"tenantId": "e38dfebb-0e43-41a3-960c-69d2371a6183"
+	}
+}
